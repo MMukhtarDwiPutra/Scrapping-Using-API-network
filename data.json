@@ -1,0 +1,21 @@
+{
+    "data": {
+        "item_rating_summary": {
+            "rating_count": [
+                5,
+                4,
+                8,
+                25,
+                725
+            ],
+            "rating_total": 767,
+            "rcount_with_context": 358,
+            "rcount_with_image": 245,
+            "rcount_with_media": 251
+        },
+        "ratings": []
+    },
+    "error": 0,
+    "error_msg": null,
+    "version": "df318c7c3a84b809995d10a118ec558a"
+}
